@@ -21,3 +21,6 @@ I simply choosed to make this project because I see that I can learn a lot from 
 ## Schematics
 <img width="1225" height="864" alt="image" src="https://github.com/user-attachments/assets/a419a9f6-8be1-4125-9c01-7a3dd897884d" />
 
+---
+
+# BOM :
